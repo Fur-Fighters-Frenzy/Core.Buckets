@@ -1,0 +1,15 @@
+{
+    "name": "Validosik.Core.Buckets",
+    "rootNamespace": "Validosik.Core.Buckets",
+    "references": ["Validosik.Core.Utilities"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+  }
+  

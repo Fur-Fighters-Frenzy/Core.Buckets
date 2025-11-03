@@ -1,0 +1,32 @@
+{
+  "name": "validosik.core.buckets",
+  "displayName": "Buckets (Broadcast & PubSub)",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "description": "Lightweight broadcast buckets: push a message once, fan it out to all subscribers. Simple pub/sub channels with scoped buckets and minimal overhead.",
+  "author": {
+    "name": "validosik"
+  },
+  "dependencies": {
+    "validosik.core.utilities": "0.0.1"
+  },
+  "samples": [
+    {
+      "displayName": "Example (code)",
+      "path": "Samples~/Example"
+    }
+  ],
+  "keywords": [
+    "broadcast",
+    "pubsub",
+    "message-bus",
+    "event-aggregator",
+    "observer",
+    "channels",
+    "topics",
+    "subscriptions",
+    "multicast",
+    "signals",
+    "routing"
+  ]
+}
